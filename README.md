@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kdpranay99
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on work related to Python programming
+- 👀 I’m interested in Front-End Dev.
+- 🌱 I’m currently learning HTML, CSS & JS.
 
 <!---
 kdpranay99/kdpranay99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

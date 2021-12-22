@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kdpranay99 or you can call me Senju.
-- 👀 I’m interested in Front-End Dev.
+- 👀 I’m interested in Front-End Dev, UI/UX Designing.
 - 🌱 I’m currently learning HTML, CSS & JS.
 
 <!---
